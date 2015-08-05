@@ -7,7 +7,7 @@ The name comes from the method this library uses. In essence, the sidebar is "be
 The library is standalone, very small and easy to use.
 
 ## Demo
-(gif)
+_(animated gif)_
 
 ![demo](https://github.com/kapolos/side-by-slide-panel/raw/gh-pages/images/sidebyslide-demo.gif)
 
@@ -62,14 +62,14 @@ document.addEventListener('DOMContentLoaded', function () { // Execute after DOM
 
 ```html
 <div id="pageLeftSidepanel" class="fsp-sidepanel">
- // Left Sidebar Content
+ <!-- Left Sidebar Content -->
 </div>
 
 <div id="pageRightSidepanel" class="fsp-sidepanel fsp-sidepanel-right">
- // Right Content
+ <!-- Right Content -->
 </div>
 
 <div id="pageContent" class="fsp-content">
- // Main Area Content
+ <!-- Main Area Content -->
 </div>
 ```
