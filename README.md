@@ -7,6 +7,7 @@ The name comes from the method this library uses. In essence, the sidebar is "be
 The library is standalone, very small and easy to use.
 
 ## Demo
+(gif)
 
 ![demo](https://github.com/kapolos/side-by-slide-panel/raw/gh-pages/images/sidebyslide-demo.gif)
 
@@ -40,6 +41,12 @@ div#mainarea
 ```
 
 Note that the sidepanel should be before the main area no matter if it is going to be one the left or on the right of the main area.
+
+#### CSS
+
+Assign the `fsp-sidepanel` class to your sidepanels. For right sidepanels, also assign `fsp-sidepanel-right`.
+
+Assing the `fsp-content` class to your main area.
 
 ### Example
 (see the code in the example folder for more details)
