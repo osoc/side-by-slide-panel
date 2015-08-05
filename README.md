@@ -9,5 +9,3 @@ The library is standalone, very small and easy to use.
 ## Demo
 
 ![](https://github.com/kapolos/side-by-slide-panel/raw/gh-pages/images/sidebyslide-demo.gif)
-
-TODO: Write down the exact instructions here. 
