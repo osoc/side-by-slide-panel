@@ -23,7 +23,7 @@ The library is standalone, very small and easy to use.
 
 #### Methods
 
-`.sidepanel()`: The main functionality. Returns a new instance so that you can chain it.
+`.sidepanel(opts)`: The main functionality. Returns a new instance so that you can chain it. `opts` is an object. The only options available is `side`, for defining a left or right sidebar. Defaults to left (`{side: 'left'}`). You do not have to provide the sidebar's width, it will be calculated automatically.
 
 `.toggle()`: Programmatically toggle the sidepanel. Should be used on a instance, for example if you want to create a sidepanel that will be hidden by default. 
 
