@@ -9,7 +9,7 @@ The library is standalone, very small and easy to use.
 ## Demo
 _(animated gif)_
 
-![demo](https://github.com/kapolos/side-by-slide-panel/raw/gh-pages/images/sidebyslide-demo.gif)
+![demo](images/sidebyslide-demo.gif)
 
 ## Details
 
